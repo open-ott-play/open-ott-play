@@ -25,12 +25,6 @@ cd ottplay-foss && npm install && npm run build
 python3 server.py 8080   # serve + EPG proxy
 ```
 
-### [terraform-github-open-ott-play](https://github.com/4alvit/terraform-github-open-ott-play)
-
-Infrastructure-as-code for this organization: repositories, security settings,
-and branch protection rulesets managed with Terraform (HCP Terraform backend).
-Maintained by [@4alvit](https://github.com/4alvit).
-
 ## Contributing
 
 PRs welcome — CI runs CodeQL on every push, commits must be signed.
