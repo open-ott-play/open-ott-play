@@ -7,5 +7,5 @@ organization.
    [org page](https://github.com/open-ott-play).
 2. **Logo assets** — [`assets/`](assets/) (SVG source + rendered PNG used as the org avatar).
 
-Everything else lives in [ottplay-foss](https://github.com/open-ott-play/ottplay-foss),
-the main project.
+Product docs, code, Docker, and the Rust server live in
+[ottplay-foss](https://github.com/open-ott-play/ottplay-foss).
